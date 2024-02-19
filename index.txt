@@ -1,0 +1,19 @@
+the html head element is a tag that holds the following elements
+title.. this defines the title of a html page
+style- used to define style information for a single HTML page
+
+meta tag - it is typically used to specifiy the character set, page description, keywords, author of the document and your viewport settings
+an html form is used to collect input - the user input is mostly sent to a server
+the label tag defines a label for many form elements
+the input tag is used to collect data input
+
+GIT - git is an open source and free source control management or (SCM) open source is a process simply means a project that is open to the public
+
+GITHUB - Github is a cloud platform use to store projects or repositions and you can work with other developers
+
+to configure git
+ git config --global user.name "Jericco John"
+ git config --global user.email "jericcojohn@gmail.com"
+ git config --global init.default branch main
+ git config -h
+ git con

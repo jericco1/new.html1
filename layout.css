@@ -1,0 +1,32 @@
+header ul{
+    display:inline;
+    margin: 5rem;
+
+}
+
+.landing{
+    text-align: center;
+}
+
+aside {
+    width: 30rem;
+    padding: 10px;
+}
+
+section{
+
+    width: 50rem;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+}
+footer{
+    display: flex;
+}
+
+.div2{
+    margin-left: 25rem;
+    margin-right: 25rem;
+}
