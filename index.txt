@@ -16,4 +16,8 @@ to configure git
  git config --global user.email "jericcojohn@gmail.com"
  git config --global init.default branch main
  git config -h
- git con
+ git collect
+ to delete a branch - git branch -d "branchname"
+
+ git remote add origin ""
+ to change to the main branch - git branch -M main
